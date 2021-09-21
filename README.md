@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 -->
- 🔭🔰 I’m currently learning ReactJS & NodeJS, my goal is having the MERN stack completed. I'm able to write JS and python scripts too 🤓
+ 🔭🔰 I’m currently learning ReactJS & NodeJS, my goal is having the MERN stack completed. 
+ 🤓 I'm able to write JS and python scripts too.
 
 #### Check out my last projects: 
 
