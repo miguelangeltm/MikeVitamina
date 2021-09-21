@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Miguel Angel Torres
+## Hi there 👋 I'm Miguel Angel Torres
 
 <!--
 **MikeVitamina/MikeVitamina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 -->
  🔭 I’m currently learning ReactJS & NodeJS, my goal is having the MERN stack completed
 
-My last project: https://github.com/MikeVitamina/BikeMailReactApp
+#### Check out my last projects: 
+
+⚛️ https://github.com/MikeVitamina/BikeMailReactApp 
+
+🐍 https://github.com/MikeVitamina/GDriveApiPython
 
 #### LENGUAGES AND TOOLS
 
