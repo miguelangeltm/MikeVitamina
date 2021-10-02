@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 #### Check out my last projects: 
 
-⚛️ https://github.com/MikeVitamina/BikeMailReactApp 
+[⚛️React]  https://github.com/MikeVitamina/BikeMailReactApp 
 
-🐍 https://github.com/MikeVitamina/GDriveApiPython
+[🐍Python] https://github.com/MikeVitamina/GDriveApiPython
 
 #### LENGUAGES AND TOOLS
 
