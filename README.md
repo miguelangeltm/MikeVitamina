@@ -18,6 +18,11 @@ Here are some ideas to get you started:
  🔭🔰 I’m currently learning ReactJS & NodeJS, my goal is having the MERN stack completed. 
  
  🤓 I'm able to write JS and python scripts too.
+ 
+ #### LENGUAGES AND TOOLS
+
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#) [![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#) [![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 
 #### Check out my last projects: 
 
@@ -25,8 +30,12 @@ Here are some ideas to get you started:
 
 [🐍Python] https://github.com/MikeVitamina/GDriveApiPython
 
-#### LENGUAGES AND TOOLS
+I've just started a Kotlin course and learned figma... and i invented my ice cream brand called "Zamba" in order to have a project for my app (i think this week i'm gonna upload my kotlin code) 
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) https://www.figma.com/file/QvFTm3tWlcFXq07K0ghwuS/AppKotlin?node-id=9%3A18
+#### The prototype
+
+https://www.figma.com/proto/QvFTm3tWlcFXq07K0ghwuS/AppKotlin?node-id=9%3A20&scaling=scale-down&page-id=9%3A18&starting-point-node-id=143%3A74
 
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#) [![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#) [![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 
