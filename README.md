@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 
 #### Check out my last projects: 
 
+
+[⚛️React] https://github.com/MikeVitamina/ComicBookApp
+
 [⚛️React]  https://github.com/MikeVitamina/BikeMailReactApp 
 
 [🐍Python] https://github.com/MikeVitamina/GDriveApiPython
