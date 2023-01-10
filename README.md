@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 
 #### Check out my last projects: 
 
-[⚛️React] https://mikevitamina.github.io/pokemon-matching-pairs/
+[⚛️React] Matching pair game: https://github.com/MikeVitamina/pokemon-matching-pairs 
 
-[⚛️React] https://github.com/MikeVitamina/ComicBookApp
+[⚛️React] A Comic book catalog: https://github.com/MikeVitamina/ComicBookApp
 
-[⚛️React]  https://github.com/MikeVitamina/BikeMailReactApp 
+[⚛️React]  Bike mail delivery system: https://github.com/MikeVitamina/BikeMailReactApp 
 
-[🐍Python] https://github.com/MikeVitamina/GDriveApiPython
+[🐍Python] Google drive handler https://github.com/MikeVitamina/GDriveApiPython
 
 I've just started a Kotlin course and learned figma in the process. So i invented my ice cream brand called "Zamba" in order to have a project for my app (i think this week i'm gonna upload my kotlin code) 
 
