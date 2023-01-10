@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 
 [🐍Python] Google drive handler https://github.com/MikeVitamina/GDriveApiPython
 
+#### Other projects: 
+
+
 I've just started a Kotlin course and learned figma in the process. So i invented my ice cream brand called "Zamba" in order to have a project for my app (i think this week i'm gonna upload my kotlin code) 
 
 
