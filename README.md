@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 #### Check out my last projects: 
 
+[⚛️React] https://mikevitamina.github.io/pokemon-matching-pairs/
 
 [⚛️React] https://github.com/MikeVitamina/ComicBookApp
 
