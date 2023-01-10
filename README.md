@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 -->
  🔭🔰 I’m currently learning ReactJS & NodeJS, my goal is having the MERN stack completed. 
- 
  🤓 I'm able to write JS and python scripts too.
+ ⚡ Fun fact: I am left-handed but I use to play guitar like right-handed (learn by myself)
  
  #### LENGUAGES AND TOOLS
 
@@ -27,13 +27,17 @@ Here are some ideas to get you started:
 
 #### Check out my last projects: 
 
-[⚛️React] Matching pair game: https://github.com/MikeVitamina/pokemon-matching-pairs 
 
-[⚛️React] A Comic book catalog: https://github.com/MikeVitamina/ComicBookApp
+[⚛️React] Matching pair game:  [Go to the Repository](https://github.com/MikeVitamina/pokemon-matching-pairs) - [Go to Github pages](https://mikevitamina.github.io/pokemon-matching-pairs/).
 
-[⚛️React]  Bike mail delivery system: https://github.com/MikeVitamina/BikeMailReactApp 
+[⚛️React] A Comic book catalog: [Go to the Repository](https://github.com/MikeVitamina/ComicBookApp) - [Go to Github pages](https://mikevitamina.github.io/ComicBookApp/).
 
-[🐍Python] Google drive handler https://github.com/MikeVitamina/GDriveApiPython
+
+[⚛️React]  Bike mail delivery system: [Go to the Repository](https://github.com/MikeVitamina/BikeMailReactApp) - [Go to Github pages](https://mikevitamina.github.io/BikeMailReactApp/).
+
+
+[🐍Python] Google drive handler: [Go to the Repository](https://github.com/MikeVitamina/GDriveApiPython).
+
 
 #### Other projects: 
 
