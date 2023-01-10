@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 #### Other projects: 
 
-I made this landing page for Academia Vieira CL [Go to Github pages](https://mikevitamina.github.io/academiaVieira/)
+I made this landing page for Academia Vieira CL [Check out here on Github pages](https://mikevitamina.github.io/academiaVieira/)
 
 
 I've just started a Kotlin course and learned figma in the process. So i invented my ice cream brand called "Zamba" in order to have a project for my app (i think this week i'm gonna upload my kotlin code) 
